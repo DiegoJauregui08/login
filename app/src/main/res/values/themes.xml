@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Login" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/color_morado</item>
+        <item name="colorPrimaryVariant">@color/color_morado_accent</item>
+        <item name="colorSecondary">@color/color_gray_light</item>
+        <item name="colorSecondaryVariant">@color/color_gray</item>
+
+    </style>
+
+    <style name="Theme.Login" parent="Base.Theme.Login" />
+</resources>
